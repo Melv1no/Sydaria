@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Sydaria",
+  "mainClass": "fr.crazzoxx.sydaria.Sydaria",
+  "description": "§eSydaria\n Auto /b & other features",
+  "version": 1,
+  "author": "Crazzoxx",
+  "category": 3,
+  "icon": "https://sydaria.fr/img/uploads/favicons/2022-02-12_023135.png"
+}
