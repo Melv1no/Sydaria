@@ -1,7 +1,6 @@
-# Sydaria Addons
+# Sydaria Addon
+Some stuff for Sydaria Gameplay
+## Support
 
-Sydaria Addons for LabyMod !
+For support, email contact@melvin-olivet.fr
 
-###Installation
-
-Vous pouvez glisser déposer l'archive jar dans %appdata%\.minecraft\LabyMod\addon 1.8.9\
